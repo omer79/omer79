@@ -57,9 +57,6 @@ Currently exploring Big Data Analysis and AI to enhance engineering automation w
 - **File Workflow Automation System (VBA)**  
   Excel-based file management automation tool for creating folder structures, batch renaming folders and files, changing file extensions, and generating full directory structure maps.
 
-- **Civil3D Dynamo Python Scripts (Python)**  
-  Collection of Dynamo scripts for Civil3D automation including quantity takeoff, data extraction, and workflow automation for engineering drawings.
-
 - **Numerical Integration Calculation (VB6)**  
   Desktop tool that calculates definite integrals using Simpson and Trapezoidal numerical methods with user-defined equations, bounds, and intervals.
 
